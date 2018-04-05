@@ -1,0 +1,13 @@
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\bin\Debug\EMSService.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\bin\Debug\EMSService.pdb
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\bin\Debug\EMSEntity.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\bin\Debug\EMSRepository.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\bin\Debug\EntityFramework.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\bin\Debug\EMSEntity.pdb
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\bin\Debug\EMSRepository.pdb
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\bin\Debug\EMSRepository.dll.config
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\bin\Debug\EntityFramework.xml
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\obj\Debug\EMSService.csprojResolveAssemblyReference.cache
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\obj\Debug\EMSService.csproj.CoreCompileInputs.cache
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\obj\Debug\EMSService.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSService\obj\Debug\EMSService.pdb

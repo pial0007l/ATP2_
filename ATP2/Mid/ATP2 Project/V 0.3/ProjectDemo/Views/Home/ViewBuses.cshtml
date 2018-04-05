@@ -1,0 +1,83 @@
+﻿@model IEnumerable<DataLayer.Bus>
+@{
+    ViewBag.Title = "View Buses";
+    Layout = "~/Views/Shared/HomeLayout.cshtml";
+}
+
+<h2>ViewBuses</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Route)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DepartureDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DepartureTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartingCounter)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndingCounter)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fare)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CoachType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ArivalTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SeatAvailable)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Route)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartureDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartureTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartingCounter)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndingCounter)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fare)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CoachType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArivalTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SeatAvailable)
+            </td>
+            <td>
+                @Html.ActionLink("View", "Passenger", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>

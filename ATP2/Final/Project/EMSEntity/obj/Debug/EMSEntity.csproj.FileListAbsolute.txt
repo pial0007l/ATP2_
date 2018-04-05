@@ -1,0 +1,5 @@
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSEntity\bin\Debug\EMSEntity.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSEntity\bin\Debug\EMSEntity.pdb
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSEntity\obj\Debug\EMSEntity.csproj.CoreCompileInputs.cache
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSEntity\obj\Debug\EMSEntity.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSEntity\obj\Debug\EMSEntity.pdb

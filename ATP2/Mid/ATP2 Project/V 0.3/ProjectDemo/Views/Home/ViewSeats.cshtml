@@ -1,0 +1,46 @@
+﻿@model IEnumerable<DataLayer.Seat>
+@{
+    ViewBag.Title = "View Seats";
+    Layout = "~/Views/Shared/HomeLayout.cshtml";
+}
+
+<h2>View Seats</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+
+                @Html.ActionLink("Buy", "Buy", new { id = item.Id })
+            </td>
+        </tr>
+    }
+    <tr>
+        <td>
+            @Html.ActionLink("Get Ticket", "Ticket")
+            
+        </td>
+       
+    </tr>
+    
+
+</table>
+
+

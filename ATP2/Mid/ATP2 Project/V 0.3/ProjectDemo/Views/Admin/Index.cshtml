@@ -1,0 +1,13 @@
+﻿@model IEnumerable<DataLayer.Bus>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/HomeLayout.cshtml";
+}
+
+<h2>Admin Home</h2>
+@Html.ActionLink("Home", "Index")|
+@Html.ActionLink("Bus", "Index", "Bus")|
+@Html.ActionLink("Logout", "Index", "Home")
+
+

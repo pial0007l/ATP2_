@@ -1,0 +1,13 @@
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\bin\Debug\EMSRepository.dll.config
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\bin\Debug\EMSRepository.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\bin\Debug\EMSRepository.pdb
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\bin\Debug\EMSEntity.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\bin\Debug\EntityFramework.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\bin\Debug\EMSEntity.pdb
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\bin\Debug\EntityFramework.xml
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\obj\Debug\EMSRepository.csprojResolveAssemblyReference.cache
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\obj\Debug\EMSRepository.csproj.CoreCompileInputs.cache
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\obj\Debug\EMSRepository.dll
+D:\STUDY\10TH SEMESTER\ATP2\Final\Project\EMSRepository\obj\Debug\EMSRepository.pdb
